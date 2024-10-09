@@ -1,0 +1,123 @@
+body 
+
+{
+  font-family: "Helvetica";
+  font-size: 22px;
+  background-image:url("https://images.wallpaperscraft.ru/image/single/pesok_diuny_pustynia_1313121_1920x1080.jpg");
+  background-repeat: no-repeat;
+  opacity: 0.5
+  color: #373131;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align:center;
+  margin:0px;
+  padding:px;
+}
+
+main 
+.circle-image{
+  width: 50px;
+  height: 50px;
+  background-image: url('123.jpeg');
+  background-size: cover;
+  display: block;
+  border-radius:50%;
+}
+
+
+{
+width: 40%;
+margin: 0 auto;
+}
+
+.block 
+{
+  width: 60px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid black;
+}
+
+.blocktext 
+{
+    margin-left: auto;
+    margin-right: auto;
+    width:auto;
+  }
+
+.title
+{
+  box-sizing: border-box;
+  font-family: "Helvetica";
+  flex-direction: center;
+  text-align:center;
+  margin:30px;
+  width: 600px;
+  border-radius:50px;
+  padding:15px;
+  background-color: #FFFFFF;
+  title:"Helvetica Neue";
+  font-size: 20px;
+
+}
+
+ main 
+  {
+width: 40%;
+margin: 0 auto;
+}
+
+ .block 
+{
+  width: 60px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid black;
+}
+
+.blocktext {
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+  }
+
+ {
+width: 40%;
+margin: 0 auto;
+}
+
+.title_h 
+
+{
+  box-sizing: border-box;
+  font-family: "Helvetica";
+  flex-direction: center;
+  text-align:center;
+  margin: 30px;
+  width: 600px;
+  border-radius:50px;
+  padding:15px;
+  background-color: #FFFFFF;
+  title:"Helvetica Neue";
+  font-size: 20px;
+
+}
+
+footer 
+
+.button-link 
+
+.justify 
+
+{
+  text-align: justify;
+  margin: auto;
+  margin-top: 40px;
+  display: flex;
+  padding: 20px;
+  width: 80px;
+  font-size: 18px;
+  line-height: 1;
+}
+
